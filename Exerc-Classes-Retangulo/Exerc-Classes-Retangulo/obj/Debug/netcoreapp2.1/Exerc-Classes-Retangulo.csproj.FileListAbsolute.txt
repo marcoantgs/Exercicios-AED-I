@@ -1,0 +1,10 @@
+C:\Users\Marco\source\repos\Exerc-Classes-Retangulo\Exerc-Classes-Retangulo\obj\Debug\netcoreapp2.1\Exerc-Classes-Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\Exerc-Classes-Retangulo\Exerc-Classes-Retangulo\obj\Debug\netcoreapp2.1\Exerc-Classes-Retangulo.AssemblyInfoInputs.cache
+C:\Users\Marco\source\repos\Exerc-Classes-Retangulo\Exerc-Classes-Retangulo\obj\Debug\netcoreapp2.1\Exerc-Classes-Retangulo.AssemblyInfo.cs
+C:\Users\Marco\source\repos\Exerc-Classes-Retangulo\Exerc-Classes-Retangulo\bin\Debug\netcoreapp2.1\Exerc-Classes-Retangulo.deps.json
+C:\Users\Marco\source\repos\Exerc-Classes-Retangulo\Exerc-Classes-Retangulo\bin\Debug\netcoreapp2.1\Exerc-Classes-Retangulo.runtimeconfig.json
+C:\Users\Marco\source\repos\Exerc-Classes-Retangulo\Exerc-Classes-Retangulo\bin\Debug\netcoreapp2.1\Exerc-Classes-Retangulo.runtimeconfig.dev.json
+C:\Users\Marco\source\repos\Exerc-Classes-Retangulo\Exerc-Classes-Retangulo\bin\Debug\netcoreapp2.1\Exerc-Classes-Retangulo.dll
+C:\Users\Marco\source\repos\Exerc-Classes-Retangulo\Exerc-Classes-Retangulo\bin\Debug\netcoreapp2.1\Exerc-Classes-Retangulo.pdb
+C:\Users\Marco\source\repos\Exerc-Classes-Retangulo\Exerc-Classes-Retangulo\obj\Debug\netcoreapp2.1\Exerc-Classes-Retangulo.dll
+C:\Users\Marco\source\repos\Exerc-Classes-Retangulo\Exerc-Classes-Retangulo\obj\Debug\netcoreapp2.1\Exerc-Classes-Retangulo.pdb
