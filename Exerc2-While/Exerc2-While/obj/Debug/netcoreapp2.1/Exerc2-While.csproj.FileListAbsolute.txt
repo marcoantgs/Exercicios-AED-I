@@ -1,0 +1,11 @@
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\bin\Debug\netcoreapp2.1\Exerc2-While.deps.json
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\bin\Debug\netcoreapp2.1\Exerc2-While.runtimeconfig.json
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\bin\Debug\netcoreapp2.1\Exerc2-While.runtimeconfig.dev.json
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\bin\Debug\netcoreapp2.1\Exerc2-While.dll
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\bin\Debug\netcoreapp2.1\Exerc2-While.pdb
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\obj\Debug\netcoreapp2.1\Exerc2-While.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\obj\Debug\netcoreapp2.1\Exerc2-While.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\obj\Debug\netcoreapp2.1\Exerc2-While.AssemblyInfoInputs.cache
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\obj\Debug\netcoreapp2.1\Exerc2-While.AssemblyInfo.cs
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\obj\Debug\netcoreapp2.1\Exerc2-While.dll
+C:\Users\Marco\source\repos\Exerc2-While\Exerc2-While\obj\Debug\netcoreapp2.1\Exerc2-While.pdb
