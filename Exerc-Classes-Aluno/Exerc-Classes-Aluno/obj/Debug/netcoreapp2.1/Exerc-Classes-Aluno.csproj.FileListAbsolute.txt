@@ -1,0 +1,11 @@
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\bin\Debug\netcoreapp2.1\Exerc-Classes-Aluno.deps.json
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\bin\Debug\netcoreapp2.1\Exerc-Classes-Aluno.runtimeconfig.json
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\bin\Debug\netcoreapp2.1\Exerc-Classes-Aluno.runtimeconfig.dev.json
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\bin\Debug\netcoreapp2.1\Exerc-Classes-Aluno.dll
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\bin\Debug\netcoreapp2.1\Exerc-Classes-Aluno.pdb
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\obj\Debug\netcoreapp2.1\Exerc-Classes-Aluno.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\obj\Debug\netcoreapp2.1\Exerc-Classes-Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\obj\Debug\netcoreapp2.1\Exerc-Classes-Aluno.AssemblyInfoInputs.cache
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\obj\Debug\netcoreapp2.1\Exerc-Classes-Aluno.AssemblyInfo.cs
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\obj\Debug\netcoreapp2.1\Exerc-Classes-Aluno.dll
+C:\Users\Marco\source\repos\Exerc-Classes-Aluno\Exerc-Classes-Aluno\obj\Debug\netcoreapp2.1\Exerc-Classes-Aluno.pdb
