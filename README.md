@@ -1,2 +1,2 @@
 # Exercicios-AED-I
-Exercícios feitos durante a disciplina de AED I
+Exercícios de C# feitos na disciplina de AED I
